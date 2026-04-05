@@ -1,0 +1,11 @@
+{
+  "domain": "local_ai",
+  "name": "Local AI",
+  "version": "0.1.0",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "config_flow": true
+}

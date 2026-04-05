@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Ollama",
+        "data": {
+          "url": "Ollama URL",
+          "model": "Model"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to Ollama. Check the URL and ensure Ollama is running."
+    }
+  }
+}
